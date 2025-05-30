@@ -14,9 +14,9 @@ FastAPI Todo App , JSON şemalarında todo listesini dict(sözlük) olarak tutar
 * Python 3.1.x
 * Pydantic
 
-⚙️ Kurulum ve Çalıştırma
-## Terminalde gerekli paketleri kur
+## ⚙️ Kurulum ve Çalıştırma
+Terminalde gerekli paketlerin kurulumu :
 pip install fastapi uvicorn
 
-## Uygulamayı başlatmak için
+Uygulamayı web serverda çalıştırmak için : 
 uvicorn todo_app(.py dosyanızın ismi):app --reload
