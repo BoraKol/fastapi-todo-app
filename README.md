@@ -1,4 +1,4 @@
-🗒️ FastAPI Todo App 
+### 🗒️ FastAPI Todo App 
 FastAPI Todo App , JSON şemalarında todo listesini dict(sözlük) olarak tutarak , temel CRUD işlemlerini web server aracılığıyla gerçekleştirmenizi sağlar.
 
 🚀 Özellikler
